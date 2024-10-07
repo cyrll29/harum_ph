@@ -256,7 +256,7 @@
 
 .swiper-container {
     width: auto ;
-    height: 50vh;
+    height: 57vh;
     background-color: aqua;
     background-size: cover;
     background-position: center
@@ -272,5 +272,16 @@
 
 .swiper-3 {
     background-image: url(../../assets/featured_perfumes/sl_ecstatic.jfif);
+}
+
+.swiper-4 {
+    background-image: url(../../assets/featured_perfumes/sg_delina.jfif);
+}
+.swiper-5 {
+    background-image: url(../../assets/featured_perfumes/pa_uts.jpg);
+}
+
+.swiper-6 {
+    background-image: url(../../assets/featured_perfumes/tbg_hypnotic.jfif);
 }
 

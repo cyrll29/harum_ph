@@ -17,6 +17,11 @@ const navBar = () => {
         <div className="links">
           <a href="/">About us</a>
         </div>
+        <div className="links">
+          <a href="/">
+            <button className='border'>LOG IN</button>
+          </a>
+        </div>
       </div>
     </div>
   )

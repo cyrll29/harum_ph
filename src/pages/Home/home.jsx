@@ -85,13 +85,13 @@ const home = () => {
                   <div className="swiper-container swiper-3"></div>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <div className="swiper-container"></div>
+                  <div className="swiper-container swiper-4"></div>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <div className="swiper-container"></div>
+                  <div className="swiper-container swiper-5"></div>
                 </SwiperSlide>
                 <SwiperSlide>
-                  <div className="swiper-container"></div>
+                  <div className="swiper-container swiper-6"></div>
                 </SwiperSlide>
               </Swiper>
             </div>
