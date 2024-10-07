@@ -1,0 +1,8 @@
+.home-body {
+    display: flex;
+}
+
+.home-header {
+    background-color: #313638;
+    width: 100%;
+}
