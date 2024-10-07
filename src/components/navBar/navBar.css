@@ -4,6 +4,7 @@
     --primary-font: "Bebas Neue", sans-serif;
     --secondary-font: "Montserrat", sans-serif;
  }
+ 
 .nav-bar {
     display: flex;
     justify-content: space-around;
