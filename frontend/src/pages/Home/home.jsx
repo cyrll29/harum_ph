@@ -74,7 +74,7 @@ const Home = () => {
 
           <div className="content-3">
             <div className="content-3-title">
-              <h1>FEATURED PERFUME</h1>
+              <h1>FEATURED PERFUMES</h1>
             </div>
             <div className="swiper-containers ">
               <Swiper

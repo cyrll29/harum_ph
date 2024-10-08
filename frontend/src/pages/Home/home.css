@@ -5,9 +5,6 @@
     --secondary-font: "Montserrat", sans-serif;
  }
 
- html {
-    width: 100vw;
- }
  
 .home-body {
     display: flex;
